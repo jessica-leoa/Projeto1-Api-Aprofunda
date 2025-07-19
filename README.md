@@ -21,16 +21,16 @@ Esta é uma API simples para gerenciamento de tarefas, desenvolvida como parte d
 ## Testes realizados
 
 ### Listar tarefas (GET /tasks)
-![GET /tasks](screenshots/get_tasks.png)
+![GET /tasks](screenshots/get_tasks.PNG)
 
 ### Detalhar tarefa (GET /tasks/1)
-![GET /tasks/1](screenshots/get_task_by_id.png)
+![GET /tasks/1](screenshots/get_task_by_id.PNG)
 
 ### Criar tarefa (POST /tasks)
-![POST /tasks](screenshots/post_task.png)
+![POST /tasks](screenshots/post_task.PNG)
 
 ### Atualizar tarefa (PUT /tasks/1)
-![PUT /tasks/1](screenshots/put_task.png)
+![PUT /tasks/1](screenshots/put_task.PNG)
 
 ### Deletar tarefa (DELETE /tasks/1)
-![DELETE /tasks/1](screenshots/delete_task.png)
+![DELETE /tasks/1](screenshots/delete_task.PNG)
